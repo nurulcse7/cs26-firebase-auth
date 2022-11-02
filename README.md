@@ -1,4 +1,4 @@
-# CS26 Firebase Auth
+# CS27 Firebase Auth
 
 ### Code link [Click here](https://github.com/nurulcse7/cs26-firebase-auth)
 
